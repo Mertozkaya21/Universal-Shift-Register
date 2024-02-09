@@ -1,4 +1,4 @@
-# Lab Assignment: Designing a Multifunction Register
+# Designing a Multifunction Register
 
 ---
 
